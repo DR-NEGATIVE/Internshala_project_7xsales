@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460782360792",
+    "project_id": "slidevideo-42023",
+    "storage_bucket": "slidevideo-42023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460782360792:android:03a397069e38000afb1fad",
+        "android_client_info": {
+          "package_name": "com.example.slide_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460782360792-i9b0vgn3dlib6eajq6ltuldfro391lbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3H9rsKJDKzd9cH0j-c4ot_d-mVG12p_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460782360792-i9b0vgn3dlib6eajq6ltuldfro391lbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
